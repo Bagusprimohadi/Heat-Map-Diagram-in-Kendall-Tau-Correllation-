@@ -2,7 +2,7 @@
 """
 Created on Thu Nov 18 19:13:02 2021
 
-@author: acer
+@author: Bagus Primohadi Syahputra
 """
 
 import pandas as pd
